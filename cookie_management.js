@@ -30,4 +30,4 @@ function CookieBytes() {
 	return self;
 }
 
-CookieBytes().get("username");
+module.exports.CookieBytes = CookieBytes;
