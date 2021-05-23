@@ -1,0 +1,24 @@
+{
+  "name": "cookiebytes",
+  "version": "2.0.0",
+  "description": "A simple JS library to manage cookies on client side.",
+  "main": "cookie_management.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SREENATHPGS/cookiebytes.git"
+  },
+  "keywords": [
+    "cookies",
+    "browser",
+    "session"
+  ],
+  "author": "Sreenath P G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SREENATHPGS/cookiebytes/issues"
+  },
+  "homepage": "https://github.com/SREENATHPGS/cookiebytes#readme"
+}
